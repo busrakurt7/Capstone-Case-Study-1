@@ -1,5 +1,7 @@
 # Capstone-Case-Study-1
 
+### Background
+
 A case study that's focused on a national rental car company called Lariat. Lariat is trying to make better decisions about the vehicles that they purchase for their national fleet. They have also defined some high-level business objectives that they want to meet, including minimizing costs and maximizing revenue. But they're looking to derive insights from the rental fleet data and recommend strategies for reaching their goals.
 
 
